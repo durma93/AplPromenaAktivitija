@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogInApp</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="prosek">Prosek</string>
+    <string name="sacuvaj">Sacuvaj</string>
+    <string name="registruj_se">Registracija</string>
+</resources>
